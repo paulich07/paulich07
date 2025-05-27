@@ -41,7 +41,7 @@
 
 ### 📫 Contatti
 
-- 🌐 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/paulina-lichota-6a1b05178/)/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/paulina-lichota-6a1b05178/)
 - 🗂️ [GitHub Personal Page](https://paulich07.github.io/)
 
 
