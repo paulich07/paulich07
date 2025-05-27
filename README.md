@@ -15,7 +15,7 @@
 
 ---
 
-[![plichota's 42 stats](https://badge.mediaplus.ma/darkblue/plichota)](https://github.com/oakoudad/badge42)
+[![plichota's 42 stats](https://badge.mediaplus.ma/levi/plichota)](https://github.com/oakoudad/badge42)
 
 ---
 
