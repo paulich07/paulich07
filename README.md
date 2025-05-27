@@ -42,6 +42,11 @@
 
 ---
 
+![paulich07's Stats](https://github-readme-stats.vercel.app/api?username=paulich07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![paulich07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulich07&theme=tokyonight&hide_border=true)
+![paulich07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulich07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+---
 
 ### 📫 Contact me
 
