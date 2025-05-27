@@ -15,6 +15,10 @@
 
 ---
 
+[![<plichota>'s 42 stats](https://badge.mediaplus.ma/darkblue/<plichota>)](https://github.com/oakoudad/badge42)
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 👩‍💻 Frontend
