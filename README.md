@@ -38,13 +38,6 @@
 
 ---
 
-### 📂 Progetti Recenti
-
-- 🚧 **Portfolio Vue** – SPA responsive con Vue 3 + Router
-- 🛠 **Cloni Frontend** – Pagine replicate da siti noti per esercizio (YouTube, Spotify…)
-- 📦 **Docker Fullstack** – Setup multi-container con frontend Vue + backend Express
-
----
 
 ### 📫 Contatti
 
